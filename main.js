@@ -93,6 +93,19 @@
 //     alert("(")
 // }
 
+
+//min 3
+// var num = Number(prompt("give a num"));
+// var num2 = Number(prompt("give a num 2"));
+// var summe = 0;
+
+// while (num <= num2) {
+//     summe+=num;
+//     num++
+// }
+// alert(summe); 
+
+
 //norma 2
 // const summe = prompt("give a summe");
 // const discount = summe - (summe * 3) / 100;
@@ -108,13 +121,14 @@
 // }
 
 
-//min 3
-// var num = Number(prompt("give a num"));
-// var num2 = Number(prompt("give a num 2"));
-// var summe = 0;
-
-// while (num <= num2) {
-//     summe+=num;
-//     num++
+// norma 1
+// const num = prompt("give a 5 num");
+// if (num[0] == num[4] && num[1] == num[3]) {
+//     alert("polindrom")
+// } else {
+//     alert("no polindrom")
 // }
-// alert(summe);  
+
+
+const num = promot("give 10 num");
+
